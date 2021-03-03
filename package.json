@@ -20,7 +20,7 @@
     "debug": "~2.6.9",
     "express": "~4.15.5",
     "morgan": "~1.9.0",
-    "pug": "^2.0.1",
+    "pug": "^3.0.1",
     "serve-favicon": "~2.4.5",
     "pretty-error": "^2.1.1"
   },
